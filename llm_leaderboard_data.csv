@@ -1,0 +1,80 @@
+family,Model,%resolved,date,benchmark_date,data
+Anthropic,RAG + Claude 2,4.40%,2023-10-10,2023-10-10,swe-bench
+Meta,RAG + SWE-Llama 7B,1.40%,2023-10-10,2023-10-10,swe-bench
+Meta,RAG + SWE-Llama 13B,1.20%,2023-10-10,2023-10-10,swe-bench
+OpenAI,RAG + ChatGPT 3.5,0.40%,2023-10-10,2023-10-10,swe-bench
+OpenAI,SWE-agent + GPT 4 (1106),22.40%,2024-04-02,2024-04-02,swe-bench
+Anthropic,SWE-agent + Claude 3 Opus,15.80%,2024-04-02,2024-04-02,swe-bench
+Anthropic,RAG + Claude 3 Opus,7.00%,2024-04-02,2024-04-02,swe-bench
+OpenAI,RAG + GPT 4 (1106),2.80%,2024-04-02,2024-04-02,swe-bench
+Amazon,amazon q developer agent,13.82%,2024-05-09,2024-05-09,swe-bench
+Meta,Llama-3.1-405B-Instruct,11.18%,2024-07-23,2025-09-20,swe-bench-pro
+Meta,Llama-4-Maverick-17B-128E-Instruct,5.24%,2025-04-05,2025-09-20,swe-bench-pro
+Google,gemini 2.5 Pro,13.50%,2025-06-17,2025-09-20,swe-bench-pro
+OpenAI,OPENAI GPT-OSS 120B,16.20%,2025-08-05,2025-09-20,swe-bench-pro
+Anthropic,Claude Opus 4.1,23.10%,2025-08-05,2025-09-20,swe-bench-pro
+OpenAI,GPT 5,23.30%,2025-08-07,2025-09-20,swe-bench-pro
+Moonshot AI,Kimi K2 Instruct,27.70%,2025-09-09,2025-09-20,swe-bench-pro
+Deepseek,DeepSeek-V3.2,15.56%,2025-09-29,2025-09-29,swe-bench-pro
+Anthropic,Claude Sonnet 4.5,43.60%,2025-09-29,2025-09-29,swe-bench-pro
+Z.ai,GLM 4.6,9.67%,2025-09-30,2025-09-30,swe-bench-pro
+Anthropic,CLAUDE HAIKU 4.5,39.50%,2025-10-15,2025-10-15,swe-bench-pro
+OpenAI,GPT 5.1 Codex,50.80%,2025-11-12,2025-11-12,swe-bench-pro
+Google,Gemini 3.0 pro,43.30%,2025-11-18,2025-11-18,swe-bench-pro
+Anthropic,Claude Opus 4.5,57.10%,2025-11-24,2025-11-24,swe-bench-pro
+Google,Gemini 3 Flash,49.60%,2025-12-17,2025-12-17,swe-bench-pro
+OpenAI,GPT 5.2 Codex,55.60%,2025-12-18,2025-12-18,swe-bench-pro
+MiniMax,Minimax M2.1,36.81%,2025-12-23,2025-12-23,swe-bench-pro
+Moonshot AI,Kimi 2.5,50.70%,2026-01-27,2026-01-27,swe-bench-pro
+Alibaba,Qwen3-code-next,44.30%,2026-02-03,2026-02-03,swe-bench-pro
+Anthropic,Claude Opus 4.6,53.40%,2026-02-05,2026-02-05,swe-bench-pro
+MiniMax,Minimax M2.5,55.40%,2026-02-12,2026-02-12,swe-bench-pro
+ByteDance,Seed 2.0 Pro,46.90%,2026-02-14,2026-02-14,swe-bench-pro
+xAI,Grok 4.2,51.80%,2026-02-18,2026-02-18,swe-bench-pro
+Google,Gemini 3.1 pro,54.20%,2026-02-19,2026-02-19,swe-bench-pro
+OpenAI,GPT 5.4,57.70%,2026-03-05,2026-03-05,swe-bench-pro
+OpenAI,GPT 5.3 Codex,56.80%,2026-02-05,2026-03-05,swe-bench-pro
+MiniMax,Minimax M2.7,56.20%,2026-03-18,2026-03-18,swe-bench-pro
+Xiaomi,MiMo 2 Pro,55.00%,2026-03-18,2026-03-18,swe-bench-pro
+Z.ai,GLM 5.1,58.40%,2026-03-27,2026-03-27,swe-bench-pro
+Alibaba,Qwen 3.6 plus,56.60%,2026-04-01,2026-04-01,swe-bench-pro
+Z.ai,GLM 5.1,58.80%,2026-04-07,2026-04-07,swe-bench-pro
+Anthropic,Claude Opus 4.7,64.30%,2026-04-16,2026-04-16,swe-bench-pro
+Moonshot AI,Kimi 2.6,58.60%,2026-04-21,2026-04-21,swe-bench-pro
+Xiaomi,MiMo 2.5 Pro,57.20%,2026-04-22,2026-04-22,swe-bench-pro
+OpenAI,GPT 5.5,58.60%,2026-04-23,2026-04-23,swe-bench-pro
+Deepseek,Deepseek v4 pro max,59.00%,2026-04-24,2026-04-24,swe-bench-pro
+poolside,laguna xs.2,44.50%,2026-04-28,2026-04-28,swe-bench-pro
+OrionLLM,GRM 2.6 Plus,54.00%,2026-05-07,2026-05-07,swe-bench-pro
+Google,Gemini 3.5 Flash,55.10%,2026-05-19,2026-05-19,swe-bench-pro
+Alibaba,Qwen 3.7 Max,60.60%,2026-05-20,2026-05-20,swe-bench-pro
+Anthropic,Claude Opus 3,22.00%,2024-03-04,2024-08-13,swe-bench-verified
+OpenAI,AppMap Navie + GPT 4o,14.60%,2024-06-15,2024-08-13,swe-bench-verified
+Anthropic,SWE-agent + Claude 3.5 Sonnet,18.13%,2024-06-20,2024-08-13,swe-bench-verified
+Anthropic,Claude Sonnet 3.5 V1,33.00%,2024-06-20,2024-08-13,swe-bench-verified
+OpenAI,AutoCodeRover (v20240620) + GPT 4o (2024-05-13),18.83%,2024-06-28,2024-08-13,swe-bench-verified
+Amazon,amazon q developer agent,19.75%,2024-07-21,2024-08-13,swe-bench-verified
+OpenAI,SWE-agent + GPT 4o (2024-05-13),23.20%,2024-07-28,2024-08-13,swe-bench-verified
+Deepseek,Deepseek V2.5,22.60%,2024-08-05,2024-08-13,swe-bench-verified
+OpenAI,OpenAI o1,48.90%,2024-08-12,2024-08-13,swe-bench-verified
+OpenAI,EPAM AI/Run Developer Agent + GPT4o,24.00%,2024-08-20,2024-08-20,swe-bench-verified
+Anthropic,Claude Sonnet 3.5 V2,49.00%,2024-10-22,2024-10-22,swe-bench-verified
+Deepseek,DeepSeek-V3,42.00%,2024-12-26,2024-12-26,swe-bench-verified
+Deepseek,Deepseek R1,49.20%,2025-01-20,2025-01-20,swe-bench-verified
+Anthropic,Claude Sonnet 3.7,62.30%,2025-02-24,2025-02-24,swe-bench-verified
+OpenAI,GPT 4.1,54.60%,2025-04-14,2025-04-14,swe-bench-verified
+OpenAI,OpenAI o3,69.10%,2025-04-16,2025-04-16,swe-bench-verified
+OpenAI,OpenAI codex 1,72.10%,2025-05-16,2025-05-16,swe-bench-verified
+Mistral,Devstral,46.80%,2025-05-21,2025-05-21,swe-bench-verified
+Anthropic,Claude Sonnet 4,72.70%,2025-05-22,2025-05-22,swe-bench-verified
+Anthropic,Claude Opus 4,72.50%,2025-05-22,2025-05-22,swe-bench-verified
+Google,gemini 2.5 Pro,63.80%,2025-06-17,2025-06-17,swe-bench-verified
+Z.ai,GLM 4.5,64.20%,2025-07-28,2025-07-28,swe-bench-verified
+Anthropic,Claude Opus 4.1,74.50%,2025-08-05,2025-08-05,swe-bench-verified
+OpenAI,GPT 5,72.50%,2025-08-07,2025-08-07,swe-bench-verified
+Z.ai,GLM 4.6,68.00%,2025-09-30,2025-09-30,swe-bench-verified
+Deepseek,DeepSeek-V3.1-Terminus,68.40%,2025-09-22,2025-09-22,swe-bench-verified
+Deepseek,DeepSeek-V3.2-Exp,67.80%,2025-09-29,2025-09-29,swe-bench-verified
+MiniMax,Minimax 2,69.40%,2025-10-27,2025-10-27,swe-bench-verified
+Z.ai,GLM 4.7,73.80%,2025-12-22,2025-12-22,swe-bench-verified
+Anthropic,Claude Sonnet 4.6,79.60%,2026-02-17,2026-02-17,swe-bench-verified
